@@ -1,0 +1,102 @@
+.container{
+    background-color:cadetblue;
+    margin-bottom: 100%;
+    margin-inside: 100%;
+    margin-outside: 100%;
+    max-resolution: res;
+}
+.titulo{
+    font-family:cambria;
+    font-size:40px;
+    color:black;
+    text-align: center;
+}
+
+.lbl{
+    font-family:cambria;
+    font-size:20px;
+    color:darkblue;
+    margin-left: 2%;
+}
+
+.cadastro {
+    background-color: beige;
+    align-items: center;
+    text-align: start;
+    padding:6px;
+    display: list-item;
+    width:95%;
+    margin-left: 2%;
+}
+
+.tabela{
+    background-color: #f2f2f2;
+    margin-left: 15%;
+    border: solid;
+   }
+
+
+
+
+.success{
+
+    background-color: #008CBA; /* blue */
+    border: thin;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 2%;
+}
+
+.danger{
+    background-color: red; /* red */
+    border: thin;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 2%;
+
+}
+.btnIndex{
+    background-color: #008CBA; /* blue */
+    border: thin;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 35%;
+
+}
+
+.btnAlterar{
+    background-color: #008CBA; /* blue */
+    border: thin;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 2%;
+}
+
+
+.btnExcluir{
+    background-color: red; /* blue */
+    border: thin;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 2%;
+}
