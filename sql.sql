@@ -6,8 +6,8 @@ create database cadastro_pessoas;
 CREATE TABLE pessoas (
 pesId int(8) not null unique primary key auto_increment,
 pesNome varchar(255),
-pesDataNascimento date(2),
-pesSexo char,
+pesDataNascimento date,
+pesSexo char(1),
 pesTelefone varchar(255),
 pesEmail varchar(255)
 ) AUTO_INCREMENT=1;
